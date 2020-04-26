@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 44 44" width="44" height="44">
+	<defs>
+		<image width="42" height="42" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACoAAAAqCAMAAADyHTlpAAAAAXNSR0IB2cksfwAAADlQTFRFAAAAE1eJE1eJImKQe6G9xNXh8PT4////4erwtcrabJa1P3efXYyuToGnpsDTMWyYiavEl7XL09/pfKdLrAAAABN0Uk5TAP/+/////////////////////7mZF24AAADxSURBVHic7dTLkoMgEAXQmAYubwj//7FpIYliMGaqZuEid6XUsWge7eXyh0xf5vqjJ6MkpFRo0dJY2qX2yZ7Rbod6wPjwmiFYCeWGlBTspr4IOaR2NT7HwPPXaUQzcntwOQsWCmbmIypR6yRZV3Qjn2n5fESpQMUc0ar5SCPKvJtOVfSJEh4L8dAHNLy2Afg/6uq8nHRIJw1R3wziEeWLEN0U+PjTEeXzrWkXZYfGx9QpapQbdWMbKmp1fQrCiKZW3joeahpRnk2HTnJXiDHlm8IdtYTbZ1XSpg2z7lqrrLvirblTWNJXfra/y9np9dvcATapEG+mzrsPAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Instagram">
+		<use id="instagram" href="#img1" x="1" y="1" />
+	</g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 44 44" width="44" height="44">
+	<defs>
+		<image width="42" height="42" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACoAAAAqCAMAAADyHTlpAAAAAXNSR0IB2cksfwAAADlQTFRFAAAA5Rln5Rln5ydx7FON73Cg97fP////7WGX/OLs+MXZ8oyz9ajG/fH19Jq86kSE+tTi8H6q6DZ6O7oHygAAABN0Uk5TAP/+/////////////////////7mZF24AAAEhSURBVHic7ZTbcsMgDERDuCySkIP5/48tFztTpyRxXzqdTvWAbeawKwTy5fKNMCfj+o/+IGqdPYX6gBbBv0MjASwiSUHxJZpAC6jbe8LyAk1I1iwbYvnAHtGI1BCCa183VcQnqNXcnw5Ux1VzIXqCrkPNmACJGcEaDz9H86Zh11qssX/iOYrgvAhTL+u+zynqeumhLLGojjlBmaOrc7f+WhhNm5n39B/RrTQlNfF6ZAsDtxlqIZspOPJwXua5GmpltQG5mnqs96kJKi0x7idWLXikP0eLcnUcWdQldchq52iVDUNzs0ifRB9vVr3Vu4yDpPu6CVr3xGWvhx7Ir10giizORcnQ1bxETVn6HQDJQytOO7Y4N2nZX/p3+Qvo9Wx8AAdnD1s6AYQrAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Dribbble">
+		<use id="dribbble" href="#img1" x="1" y="1" />
+	</g>
+</svg>

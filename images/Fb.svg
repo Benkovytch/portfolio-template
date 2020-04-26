@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 44 44" width="44" height="44">
+	<defs>
+		<image width="42" height="42" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACoAAAAqCAMAAADyHTlpAAAAAXNSR0IB2cksfwAAADNQTFRFAAAAOVeXOVeXXnerwcre8/T4////d4y4a4GxRWKenKvLUmykqLXRtMDYzdXl2t/r5uryVRibVQAAABF0Uk5TAP/+//////////////////+p7ptJAAAAbklEQVR4nO3Q3QqAIAyGYfOvuXR5/1ebeFBQyDaI6MD3+GF8zBhFizA76T+p8yHG4AR0jT3gaQpi2o96xI2n2GR+zhpRfJc6gNJoAYDEUIpnCsoNuOjO0UxUm6tE93999KxJdRQQEWR00KQ6aqUd9VwK4V7vjQ0AAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Fb">
+		<use id="fb" href="#img1" x="1" y="1" />
+	</g>
+</svg>
