@@ -11,6 +11,10 @@ body {
 	font-family: 'Montserrat', sans-serif;
 	font-size: 1rem;
 	color: @black;
+
+	&.no-scroll {
+		overflow: hidden;
+	}
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -27,12 +31,16 @@ p {
 	box-sizing: border-box;
 }
 
+
+/* Libraries */
+@import "slick";
+
 /* Blocks */
 @import "container";
 @import "header";
 @import "user";
+@import "Intro";
 @import "nav";
-@import "intro";
 @import "social";
 @import "btn";
 @import "works";
@@ -44,3 +52,10 @@ p {
 @import "news";
 @import "articles";
 @import "footer";	
+@import "modal";
+@import "modal-work";
+@import "timeline";
+@import "progress-bar";
+@import "contact";
+@import "form";
+@import "burger";
